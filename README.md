@@ -7,16 +7,8 @@ Anti-AI-Writing 是一个中文写作润色 Skill，主要用于修改已经写�
 打开 Codex 桌面版，新建对话，把下面整句话复制到输入框并发送。
 
 ```text
-请帮我从 GitHub 仓库 https://github.com/AphroditeYu/Anti-AI-Writing 安装这个 Skill。它位于仓库的 skills/anti-ai-writing 目录。请安装为我个人可用的 Codex Skill，并检查能否找到 anti-ai-writing。
+请帮我从 GitHub 仓库 https://github.com/AphroditeYu/Anti-AI-Writing 安装这个 Skill。
 ```
-
-如果仓库设为私有，安装时需要使用有读取权限的 GitHub 账号。安装完成后，新开一个对话，发送下面的指令，并在下一行粘贴原文。
-
-```text
-请调用 $anti-ai-writing 润色下面这段论文引言。保留研究问题、术语、引文和结论的限定条件，只给我修改稿。
-```
-
-如果稿件已经放在项目里，也可以直接说：“用 $anti-ai-writing 修改 discussion.md 的第二段。在对话里给出改稿，并说明哪一句最容易被误读为因果结论。”
 
 ## 它具体会改什么
 
